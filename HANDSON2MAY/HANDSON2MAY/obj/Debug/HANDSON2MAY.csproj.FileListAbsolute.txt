@@ -1,0 +1,8 @@
+C:\assignment\HANDSON2MAY\HANDSON2MAY\bin\Debug\HANDSON2MAY.exe.config
+C:\assignment\HANDSON2MAY\HANDSON2MAY\bin\Debug\HANDSON2MAY.exe
+C:\assignment\HANDSON2MAY\HANDSON2MAY\bin\Debug\HANDSON2MAY.pdb
+C:\assignment\HANDSON2MAY\HANDSON2MAY\obj\Debug\HANDSON2MAY.csproj.AssemblyReference.cache
+C:\assignment\HANDSON2MAY\HANDSON2MAY\obj\Debug\HANDSON2MAY.csproj.SuggestedBindingRedirects.cache
+C:\assignment\HANDSON2MAY\HANDSON2MAY\obj\Debug\HANDSON2MAY.csproj.CoreCompileInputs.cache
+C:\assignment\HANDSON2MAY\HANDSON2MAY\obj\Debug\HANDSON2MAY.exe
+C:\assignment\HANDSON2MAY\HANDSON2MAY\obj\Debug\HANDSON2MAY.pdb
